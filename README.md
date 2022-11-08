@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br />
+
+- :mortar_board: I'm studying Master's Degree in Data Science.
+- :seedling: I train, build, optimize ML, and DL models. Currently exploring and learning about big data processing and scalable applications.
+- :black_nib: I'm also interested in Blockchain Technology. I'm building smart contracts for fun.
+
+
 
 <br />
 
