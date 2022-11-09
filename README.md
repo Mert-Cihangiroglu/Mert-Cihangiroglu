@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <br />
 
-- :mortar_board: I'm studying Master's Degree in Data Science.
+- :mortar_board: I'm a Data Science Master's Degree student.
 - :seedling: I train, build, optimize ML, and DL models. Currently exploring and learning about big data processing and scalable applications.
-- :black_nib: I'm also interested in Blockchain Technology. I'm building smart contracts for fun.
+- :black_nib: I'm also interested in Blockchain Technology and coding smart contract.
 
 
 
