@@ -1,33 +1,21 @@
-### Hi there 👋
+# 🔬 Research Profile  
 
-<!--
-**Mert-Cihangiroglu/Mert-Cihangiroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 About Me  
+I am a **Ph.D. student in AI and Security**, specializing in **privacy-preserving machine learning, federated learning, and adversarial robustness** in decentralized AI systems. My research focuses on developing **secure AI architectures**, integrating **blockchain-based privacy mechanisms, zero-knowledge proofs, and federated learning**, while recently expanding into **the security of Spiking Neural Networks (SNNs)**.  
 
-Here are some ideas to get you started:
+## 🔍 Research Interests  
+- **Privacy-Preserving AI** – Developing secure and scalable machine learning frameworks using **federated learning, differential privacy, and cryptographic techniques**.  
+- **Decentralized AI & Blockchain** – Exploring **blockchain-based security models and distributed trust mechanisms** for AI governance.  
+- **Adversarial Robustness** – Investigating **defenses against model inversion, backdoor attacks, and inference risks**.  
+- **Neuromorphic Computing & SNNs** – Studying the **security, robustness, and efficiency of Spiking Neural Networks (SNNs)** for next-generation AI.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 Publications & Research Contributions  
+- **Secure Cyber Threat Intelligence Sharing (SeCTIS)** – A **blockchain & swarm learning** framework for **privacy-preserving CTI exchange** using **zero-knowledge proofs**.  
+- **Class-Aware Gradient Masking in Federated Learning** – A novel method to **enhance privacy, improve convergence, and defend against backdoor attacks** in **non-IID federated settings**.  
+- **Secure & Federated Dataset Distillation (SFDD)** – Developing **privacy-enhanced dataset distillation** using **Local Differential Privacy (LDPO-RLD)** for **secure synthetic dataset creation**.  
 
-<br />
-
-- :mortar_board: I'm a Data Science Master's Degree student.
-- :seedling: I train, build, optimize ML, and DL models. 
-
-<br />
-
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Mert-Cihangiroglu&theme=radical" >
-</details>
-
-<details>
-<summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mert-Cihangiroglu&layout=compact" >
-</details>
+## 🛠️ Technical Skills  
+- **Machine Learning & Deep Learning**: PyTorch
+- **Security & Privacy**: Blockchain, Zero-Knowledge Proofs, Differential Privacy  
+- **Federated Learning**: FL frameworks, decentralized ML architectures  
+- **Neuromorphic AI**: Spiking Neural Networks (SNNs), SnnTorch
