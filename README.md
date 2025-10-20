@@ -7,7 +7,6 @@ I am a **Ph.D. student in AI and Security**, specializing in **privacy-preservin
 - **Privacy-Preserving AI** – Developing secure and scalable machine learning frameworks using **federated learning, differential privacy, and cryptographic techniques**.  
 - **Decentralized AI & Blockchain** – Exploring **blockchain-based security models and distributed trust mechanisms** for AI governance.  
 - **Adversarial Robustness** – Investigating **defenses against model inversion, backdoor attacks, and inference risks**.  
-- **Neuromorphic Computing & SNNs** – Studying the **security, robustness, and efficiency of Spiking Neural Networks (SNNs)** for next-generation AI.  
 
 ## 📄 Publications & Research Contributions  
 - **Secure Cyber Threat Intelligence Sharing (SeCTIS)** – A **blockchain & swarm learning** framework for **privacy-preserving CTI exchange** using **zero-knowledge proofs**.  
